@@ -8,7 +8,7 @@ import {
   ClearButton,
   OptionsList,
   OptionItem
-} from './Select.styles';
+} from './StyledSelect';
 
 export const Select = ({
   name,
