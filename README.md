@@ -1,4 +1,5 @@
 # Elfsight Test Task (Rick and Morty API)
+Тестовое задание Elfsight
 ## Инструкция по запуску
 Склонируйте репозиторий к себе на компьютер командой:
 ### `git clone git@github.com:Aleksandr-Tokmashov/elfsight-test-task.git`
